@@ -1,0 +1,7 @@
+C:\Users\Костя\source\repos\BigNumbersLab1\BigNumbersLab1\bin\Debug\BigNumbersLab1.exe.config
+C:\Users\Костя\source\repos\BigNumbersLab1\BigNumbersLab1\bin\Debug\BigNumbersLab1.exe
+C:\Users\Костя\source\repos\BigNumbersLab1\BigNumbersLab1\bin\Debug\BigNumbersLab1.pdb
+C:\Users\Костя\source\repos\BigNumbersLab1\BigNumbersLab1\obj\Debug\BigNumbersLab1.csprojAssemblyReference.cache
+C:\Users\Костя\source\repos\BigNumbersLab1\BigNumbersLab1\obj\Debug\BigNumbersLab1.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\BigNumbersLab1\BigNumbersLab1\obj\Debug\BigNumbersLab1.exe
+C:\Users\Костя\source\repos\BigNumbersLab1\BigNumbersLab1\obj\Debug\BigNumbersLab1.pdb
