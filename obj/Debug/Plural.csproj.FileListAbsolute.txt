@@ -1,0 +1,7 @@
+C:\Users\Костя\source\repos\Plural\Plural\bin\Debug\Plural.exe.config
+C:\Users\Костя\source\repos\Plural\Plural\bin\Debug\Plural.exe
+C:\Users\Костя\source\repos\Plural\Plural\bin\Debug\Plural.pdb
+C:\Users\Костя\source\repos\Plural\Plural\obj\Debug\Plural.csprojAssemblyReference.cache
+C:\Users\Костя\source\repos\Plural\Plural\obj\Debug\Plural.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\Plural\Plural\obj\Debug\Plural.exe
+C:\Users\Костя\source\repos\Plural\Plural\obj\Debug\Plural.pdb
